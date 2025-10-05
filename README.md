@@ -1,10 +1,12 @@
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQHYHVUvap5uRg/profile-displayphoto-scale_400_400/B4EZjWRzJwGcAg-/0/1755941652382?e=1762387200&v=beta&t=PJJOWr9R3t7pKD3klZ2MLML9yndNUQiu3a5HflzFYuU"
+  <img src="profile.png"
        alt="Mohamed Illiyas"
        width="200"
        style="border-radius: 50%;" />
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Mohamed Illiyas</h1>
 <h3 align="center">
